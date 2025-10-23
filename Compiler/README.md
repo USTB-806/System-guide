@@ -6,7 +6,7 @@
 
 北大编译原理[实验](https://pku-minic.github.io)
 
-## 推荐书籍
+## 推荐书籍/文档
 
 *(点击链接即可进入下载界面)*
 
@@ -14,7 +14,11 @@
 - 《编译器设计(第二版)》 [(橡书)](https://annas-archive.org/md5/77d1b9ce61cd8ee8ab93b39f01a34efc)
 
 **其他推荐：**
+
 - 《Compilers: Principles, Techniques, and Tools》 [(龙书)](https://annas-archive.org/md5/085ab88797ed412cd2650c645b640de9)
+- 《Flex & Bison》 [(关于使用 Flex & Bison 作为前端时的学习)](http://home.ustc.edu.cn/~guoxing/ebooks/flex%E4%B8%8Ebison%E4%B8%AD%E6%96%87%E7%89%88.pdf)
+- 手写递归下降的教程 [(Kaleidoscope)](https://llvm.org/docs/tutorial/MyFirstLanguageFrontend/LangImpl01.html)
+
 
 ## 推荐参考代码
 
